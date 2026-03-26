@@ -15,13 +15,11 @@ const efraym = {
   tools: ["Streamlit", "Plotly", "Pandas", "NumPy", "Matplotlib", "OpenCV", "YOLO", "RAG",
           "PyTorch", "TensorFlow", "Scikit-learn", "Transformers", "LangChain", "FAISS",
           "Node.js", "Express.js", "MongoDB", "Jupyter"],
-  graphics: ["OpenGL", "GlmNet", "GLSL Shaders", "MVP Matrices", "Delta-time Animation"],
-  architecture: ["MVC", "REST APIs", "CRUD", "OpenGL Rendering Pipeline"],
   interests: ["Machine Learning", "Computer Vision", "Backend", "Data Science"],
   currentFocus: "Building AI Fullstack apps 🤖",
   funFact: "I once drew and animated an entire cat using hand-crafted triangle vertices 🐱"
 }
-
+---
 ## 📁 Projects
 
 ### 🔬 Data Science
@@ -36,5 +34,5 @@ const efraym = {
 | Project | Description | Tech |
 |---|---|---|
 | [Simple_CRUD_Node](https://github.com/Efraym2fero/Simple_CRUD_Node) | Clean MVC REST API with full CRUD operations | Node.js, Express.js v5, MongoDB, Mongoose, Nodemon |
-
+---
 
