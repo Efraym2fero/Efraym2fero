@@ -19,20 +19,4 @@ const efraym = {
   currentFocus: "Building AI Fullstack apps 🤖",
   funFact: "I once drew and animated an entire cat using hand-crafted triangle vertices 🐱"
 }
----
-## 📁 Projects
-
-### 🔬 Data Science
-
-| Project | Description | Tech |
-|---|---|---|
-| [simple_EDA](https://github.com/Efraym2fero/simple_EDA) | Interactive CSV explorer — upload a dataset and generate scatter, bar, line, histogram & box plots instantly | Streamlit, Plotly, Pandas, NumPy, Matplotlib |
-| [Airbnb_listing_EDA](https://github.com/Efraym2fero/Airbnb_listing_EDA) | Exploratory data analysis of Airbnb listings | Python, Jupyter Notebook, Pandas |
-
-### 🌐 Backend
-
-| Project | Description | Tech |
-|---|---|---|
-| [Simple_CRUD_Node](https://github.com/Efraym2fero/Simple_CRUD_Node) | Clean MVC REST API with full CRUD operations | Node.js, Express.js v5, MongoDB, Mongoose, Nodemon |
----
-
+ 
