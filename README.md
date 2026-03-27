@@ -11,10 +11,10 @@
 const efraym = {
   pronouns: "he" | "him",
   location: "Egypt 🇪🇬",
-  code: ["Python", "C#", "JavaScript", "GLSL"],
+  code: ["Python", "C#", "JavaScript"],
   tools: ["Streamlit", "Plotly", "Pandas", "NumPy", "Matplotlib", "OpenCV", "YOLO", "RAG",
           "PyTorch", "TensorFlow", "Scikit-learn", "Transformers", "LangChain", "FAISS",
-          "Node.js", "Express.js", "MongoDB", "Jupyter"],
+          "Node.js", "Express.js", "MongoDB", "PostgreSQL", "SQLmodel", "Jupyter"],
   interests: ["Machine Learning", "Computer Vision", "Backend", "Data Science"],
   currentFocus: "Building AI Fullstack apps 🤖",
   funFact: "I once drew and animated an entire cat using hand-crafted triangle vertices 🐱"
